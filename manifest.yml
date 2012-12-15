@@ -1,8 +1,13 @@
 info:
     name: Test App
-    description: A sample application
-    author: Kloadut
-    site: http://yunohost.org
+    author: Kload
+    site: http://sample.yunohost.org
+    description:
+        en: A sample application
+        fr: Une application d'exemple
+    dependencies:
+        debian:
+        pear:
 
 yunohost:
     is_protected: yes
