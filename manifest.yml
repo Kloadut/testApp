@@ -1,0 +1,8 @@
+info:
+    name: Test App
+    description: A sample application
+    author: Kloadut
+    site: http://yunohost.org
+
+yunohost:
+    is_protected: yes
