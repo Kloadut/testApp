@@ -6,8 +6,8 @@ info:
         en: A sample application
         fr: Une application d'exemple
     dependencies:
-        debian:
-        pear:
+        debian: megusta
+        pear: test
 
 yunohost:
     is_protected: yes
